@@ -1,0 +1,14 @@
+.rev {
+    background-color: black;
+    color: white;
+}
+
+.yellowis {
+    background-color: yellow;
+}
+
+.rev,
+.yellowis {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
